@@ -7,7 +7,9 @@ Entrada
 A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio.
 
 Saída
-Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error" */
+Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Util
+ize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, cas
+o contrário, você receberá "Presentation Error" */
 
 import java.io.IOException;
 import java.util.Scanner;
