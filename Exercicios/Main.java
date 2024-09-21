@@ -10,9 +10,8 @@ Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, con
 package Exercicios;
 import java.io.IOException;
  
-public class Ex01 {
- 
-  public static void main(String[] args) {
-        System.out.println("Hello World!");
+public class Main {
+    public static void main(String[] args) {
+        System.out.printf("Hello World!\n");
     }
 }
