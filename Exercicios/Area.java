@@ -15,13 +15,13 @@ O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a u
 com mensagem correspondente e um espaço entre os dois pontos e o valor. O valor calculado deve ser apresentado com 
 3 dígitos após o ponto decimal. */
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
-class Main {
-    public static void main(String[] args) {
-        Scanner leia = new Scanner(System.in);
+import java.io.IOException;
+import java.util.Scanner;
+ 
+public class Main {
+ 
+    public static void main(String[] args) throws IOException {
+    Scanner leia = new Scanner(System.in);
 
         double A , B , C;
         double Atriangulo , Acirculo , Atrapezio , Aquadrado , Aretangulo;
