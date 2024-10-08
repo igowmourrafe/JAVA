@@ -7,7 +7,8 @@ O arquivo de entrada contém um valor inteiro N (0 < N < 1000000).
 
 Saída
 Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo necessárias, conforme o exemplo forn
-ecido. Não esqueça de imprimir o fim de linha após cada linha, caso contrário seu programa apresentará a mensagem: “Presentation Error”. */
+ecido. Não esqueça de imprimir o fim de linha após cada linha, caso contrário seu programa apresentará a mensagem: 
+“Presentation Error”. */
 
 import java.io.IOException;
 import java.util.Scanner;
