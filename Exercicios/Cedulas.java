@@ -45,6 +45,6 @@ class Main {
         System.out.printf("%d nota(s) de R$ 5,00\n",n5);
         System.out.printf("%d nota(s) de R$ 2,00\n",n2);
         System.out.printf("%d nota(s) de R$ 1,00\n",n1);     
-        
-    }
+     } 
+ }
 	
